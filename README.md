@@ -2,6 +2,21 @@
 
 A Flask web application that detects the user's geographical location based on their public IP address and displays it on an interactive map using Folium. The app fetches location details such as latitude, longitude, and a human-readable address, providing a visual display centered on the user's current location.
 
+## 📑 Table of Contents
+1. [✨ Features](#✨-features)
+2. [🗂️ Project Structure](#🗂️-project-structure)
+3. [🛠️ Requirements](#🛠️-requirements)
+4. [🚀 Installation Instructions](#🚀-installation-instructions)
+   - [🖥️ Make venv](#🖥️-make-venv-not-mandatory-but-suggested-for-handling-the-versions)
+   - [📥 Clone the Repository](#📥-clone-the-repository)
+   - [▶️ Run Application](#▶️-run-application)
+5. [⚠️ Notes](#⚠️-notes)
+   - [📏 Location Accuracy](#📏-location-accuracy)
+   - [🌐 No Internet Connection](#🌐-no-internet-connection)
+   - [🔒 Firewall or Network Restrictions](#🔒-firewall-or-network-restrictions)
+   - [📦 Missing Dependencies](#📦-missing-dependencies)
+   - [🛑 Virtual Environment Issues](#🛑-virtual-environment-issues)
+
 ## ✨ Features
 
 - 🌐 **IP-based Location Detection**: Automatically retrieves the user's geographical location using their public IP address.
