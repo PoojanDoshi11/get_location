@@ -6,7 +6,7 @@ A Flask web application that detects the user's geographical location based on t
 
 - 🌐 **IP-based Location Detection**: Automatically retrieves the user's geographical location using their public IP address.
 - 🗺️ **Interactive Map**: Displays the user's location on a dynamic map powered by Folium.
-- 📍 **Location Information**: Shows precise details like latitude, longitude, and an approximate address (with a possible margin of error up to 5 km).
+- 📍 **Location Information**: Shows precise details like latitude, longitude, and an approximate address.
 
 ## 🗂️ Project Structure
 
