@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map View</title>
+</head>
+<body>
+    <h1>Map View</h1>
+    <p>IP: {{ location_data['ip'] }}</p>
+    <p>Latitude: {{ location_data['latitude'] }}</p>
+    <p>Longitude: {{ location_data['longitude'] }}</p>
+    <p>Address: {{ location_data['address'] }}</p>
+    <iframe src="{{ map_filename }}" width="100%" height="600px"></iframe>
+</body>
+</html>
+
