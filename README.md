@@ -23,7 +23,7 @@ A Flask web application that detects the user's geographical location based on t
 
 ## 🚀 Installation Instructions
 
-### 0. 🖥️ Make venv (not mandatory but suggested for handling the versions)
+### 🖥️ Make venv (not mandatory but suggested for handling the versions)
 
 #### For Linux/macOS
 ```bash
